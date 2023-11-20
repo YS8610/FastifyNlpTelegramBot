@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "nlp": {
+      "forceNER": true,
+      "languages": ["en"],
+      "modelFileName": "./nlpFiles/model.nlp",
+      "corpora": [
+        "./nlpFiles/training.json"
+      ]
+    }
+  },
+  "use": ["Basic", "LangEn"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CDCCarLearnerCorpus",
+  "locale": "en-US",
+  "data": [
+    {
+      "intent": "carsharing.referral",
+      "utterances": [
+        "Hi guys any tribecar referral code",
+        "anyone got getgo referral code",
+        "Anyone has getgo referral code"
+      ],
+      "answers": ["please use the referral link below \n\n <a href='https://getgocarsharing.onelink.me/e0r3/dy9az1fd'>tribecar</a>\n <a href='https://www.tribecar.com/new-member-tnc?referral=13yVG'>GetGo</a>"]
+    }
+  ]
+}
